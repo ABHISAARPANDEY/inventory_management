@@ -1,0 +1,2 @@
+supplier_id|name|contact_number|email|address
+121|ramesh|9119671030|sam@gmail.com|231 manas
